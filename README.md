@@ -199,6 +199,5 @@ Future improvements could include:
 
 Project developed at **ENSAE**
 
-Mehdi Saidi
-
-Hugo Seumen Tonou 
+- Mehdi Saidi
+- Hugo Seumen Tonou 
